@@ -19,7 +19,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
 </div>
   
 ##    
@@ -34,7 +33,7 @@
     <a href= "mailto:mikael_dev@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
   </div>
     
-#
+##
     
 ![](https://user-images.githubusercontent.com/99292463/174415404-caaee81b-9073-4160-b482-a4d17390cb91.gif)
 
