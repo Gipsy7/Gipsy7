@@ -39,5 +39,6 @@
 
 ##
     
-![](https://github.com/Gipsy7/Gipsy7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gipsy7/Gipsy7/blob/output/github-contribution-grid-snake.svg)
+
     
