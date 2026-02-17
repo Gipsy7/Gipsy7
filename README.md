@@ -97,7 +97,7 @@ Landing page institucional para escritório de advocacia.
 ## 💼 Experiência Profissional
 
 **Desenvolvedor Backend .NET** @ [EVO | W12](https://www.evow12.com.br/)  
-*Junho 2021 - Presente | Blumenau, SC*
+*Agosto 2022 - Presente | Blumenau, SC*
 
 - Desenvolvimento de APIs REST com .NET Core e ASP.NET
 - Implementação de integrações com sistemas legados
