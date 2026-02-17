@@ -2,17 +2,17 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend+.NET;+3%2B+Anos+de+Experiência;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend+.NET;+5%2B+Anos+de+Experiência;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Backend .NET com mais de 3 anos de experiência na criação de soluções robustas e escaláveis. Atualmente trabalho como **Desenvolvedor Backend** na **EVO | W12**, onde desenvolvo APIs REST, sistemas de integração e aplicações enterprise.
+Desenvolvedor Backend .NET com mais de 4 anos de experiência na criação de soluções robustas e escaláveis. Atualmente trabalho como **Desenvolvedor Backend .NET** na **EVO | W12**, onde desenvolvo APIs REST, sistemas de integração e aplicações enterprise.
 
 - 🔭 Trabalhando em: **Sistemas SaaS e APIs .NET**
-- 🌱 Aprendendo: **Novas ferramentas front-end Next.js, React e desenvolvimento Mobile com Flutter**
-- 💼 Experiência: **+3 anos com .NET, C#, SQL e Azure DevOps**
+- 🌱 Aprendendo: ***Novas ferramentas front-end Next.js, React e desenvolvimento Mobile com Flutter**
+- 💼 Experiência: **+5 anos com .NET, C#, SQL e Azure DevOps**
 - 📍 Localização: **Blumenau, Santa Catarina, Brasil**
 - 💬 Pergunte-me sobre: **.NET, C#, Entity Framework, Web APIs, Flutter**
 - ⚡ Curiosidade: **Gosto de criar soluções que realmente impactam usuários**
@@ -96,7 +96,7 @@ Landing page institucional para escritório de advocacia.
 
 ## 💼 Experiência Profissional
 
-**Programador Júnior III** @ [EVO | W12](https://www.evow12.com.br/)  
+**Desenvolvedor Backend .NET** @ [EVO | W12](https://www.evow12.com.br/)  
 *Junho 2021 - Presente | Blumenau, SC*
 
 - Desenvolvimento de APIs REST com .NET Core e ASP.NET
@@ -141,10 +141,7 @@ Landing page institucional para escritório de advocacia.
 
 <div align="center">
   
-### 💭 Citação Aleatória
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 👀 Visitantes do Perfil
+###  Visitantes do Perfil
 ![Visitor Count](https://profile-counter.glitch.me/Gipsy7/count.svg)
 
 <sub>⭐ De [Gipsy7](https://github.com/Gipsy7) | Desenvolvido com 💜</sub>
