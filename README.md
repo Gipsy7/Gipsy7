@@ -33,6 +33,9 @@ Desenvolvedor Backend .NET com mais de 5 anos de experiência na criação de so
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 ### 🎨 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -57,6 +60,7 @@ Desenvolvedor Backend .NET com mais de 5 anos de experiência na criação de so
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -69,6 +73,12 @@ Sistema SaaS completo para gestão de pet shops com arquitetura multi-tenant.
 - **Stack:** Next.js 14, TypeScript, .NET 9, PostgreSQL
 - **Features:** Internacionalização (3 idiomas), múltiplas moedas, WhatsApp Business API
 - **Links:** [Case study](https://mikaelfrancisco.vercel.app/petrukio) · [Demo](https://petrukio-app.vercel.app) · [API Docs](https://petrukioapp-api.onrender.com/scalar/v1)
+
+### ✂️ [Clipper — cortes do YouTube](https://mikaelfrancisco.vercel.app/youtube-clipper)
+App desktop para Windows que transforma vídeos do YouTube em cortes verticais prontos para Shorts, Reels e TikTok.
+- **Stack:** Python, FastAPI, React 19, TypeScript, FFmpeg, faster-whisper, OpenCV
+- **Features:** Melhores momentos automáticos, legendas com transcrição local, editor de templates, publicação no YouTube, Instagram e TikTok
+- **Links:** [Case study](https://mikaelfrancisco.vercel.app/youtube-clipper) · [Download (Windows)](https://github.com/Gipsy7/clipper-releases/releases/latest)
 
 ### 🎬 [RollFlix](https://mikaelfrancisco.vercel.app/rollflix)
 Aplicativo Flutter para descobrir filmes e séries de forma aleatória.
