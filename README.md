@@ -16,11 +16,11 @@
 
 Desenvolvedor Backend .NET com mais de 5 anos de experiência na criação de soluções robustas e escaláveis. Atualmente trabalho como **Desenvolvedor Backend .NET** na **EVO | W12**, onde desenvolvo APIs REST, sistemas de integração e aplicações enterprise.
 
-- 🔭 Trabalhando em: **Sistemas SaaS e APIs .NET**
+- 🔭 Trabalhando em: **[FreelaLivre](https://mikaelfrancisco.vercel.app/freelalivre), plataforma de freelance com .NET 10, React e Pix**
 - 🌱 Aprendendo: **Novas ferramentas front-end Next.js, React e desenvolvimento Mobile com Flutter**
 - 💼 Experiência: **+5 anos com .NET, C#, SQL e Azure DevOps**
 - 📍 Localização: **Blumenau, Santa Catarina, Brasil**
-- 💬 Pergunte-me sobre: **.NET, C#, Entity Framework, Web APIs, Flutter**
+- 💬 Pergunte-me sobre: **.NET, C#, Entity Framework, Web APIs, SignalR, Flutter**
 - ⚡ Curiosidade: **Gosto de criar soluções que realmente impactam usuários**
 
 ## 🛠️ Stack Tecnológica
@@ -67,6 +67,12 @@ Desenvolvedor Backend .NET com mais de 5 anos de experiência na criação de so
 ## 🚀 Projetos em Destaque
 
 > Detalhes completos de cada projeto — arquitetura, desafios e resultados — no **[portfólio](https://mikaelfrancisco.vercel.app/#projects)**.
+
+### 🤝 [FreelaLivre — freelance sem assinatura](https://mikaelfrancisco.vercel.app/freelalivre)
+Plataforma de freelance para desenvolvedores onde ninguém paga para propor nem para aparecer: a receita vem só de uma taxa de 5% de cada lado sobre trabalho pago.
+- **Stack:** .NET 10, Minimal APIs, EF Core, PostgreSQL, SignalR, React 19, TypeScript, Docker
+- **Features:** Pix em custódia (Asaas), repasses à prova de duplicidade, chat em tempo real, avaliações às cegas, vitrine para iniciantes, 348 testes
+- **Links:** [Case study](https://mikaelfrancisco.vercel.app/freelalivre) · [Site no ar](https://freelalivre.onrender.com/)
 
 ### 🐾 [Petrukio](https://mikaelfrancisco.vercel.app/petrukio)
 Sistema SaaS completo para gestão de pet shops com arquitetura multi-tenant.
