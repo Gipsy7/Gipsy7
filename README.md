@@ -16,7 +16,7 @@
 
 Desenvolvedor Backend .NET com mais de 5 anos de experiência na criação de soluções robustas e escaláveis. Atualmente trabalho como **Desenvolvedor Backend .NET** na **EVO | W12**, onde desenvolvo APIs REST, sistemas de integração e aplicações enterprise.
 
-- 🔭 Trabalhando em: **[FreelaLivre](https://mikaelfrancisco.vercel.app/freelalivre), plataforma de freelance com .NET 10, React e Pix**
+- 🔭 Trabalhando em: **[Panóptico](https://mikaelfrancisco.vercel.app/panoptico), transparência política com Python, FastAPI e Next.js**, e no **[FreelaLivre](https://mikaelfrancisco.vercel.app/freelalivre), plataforma de freelance com .NET 10, React e Pix**
 - 🌱 Aprendendo: **Novas ferramentas front-end Next.js, React e desenvolvimento Mobile com Flutter**
 - 💼 Experiência: **+5 anos com .NET, C#, SQL e Azure DevOps**
 - 📍 Localização: **Blumenau, Santa Catarina, Brasil**
@@ -61,12 +61,19 @@ Desenvolvedor Backend .NET com mais de 5 anos de experiência na criação de so
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 ## 🚀 Projetos em Destaque
 
 > Detalhes completos de cada projeto — arquitetura, desafios e resultados — no **[portfólio](https://mikaelfrancisco.vercel.app/#projects)**.
+
+### 👁 [Panóptico — quem te representa, às claras](https://mikaelfrancisco.vercel.app/panoptico)
+Site de transparência política: o cidadão digita o CEP e vê quem o representa, do presidente ao vereador, com gastos, votos, projetos e eleição. Todo número vem de dado oficial, com a fonte, a data e a média da Casa ao lado.
+- **Stack:** Python, FastAPI, PostgreSQL, Alembic, Next.js 16, TypeScript, GitHub Actions, Neon, Vercel
+- **Features:** 89 fontes oficiais (Câmara, Senado, TSE, Portal da Transparência, IBGE, PNCP...), ingestão diária, identidade única com revisão humana, LGPD, dados abertos em Parquet/CSV, 739 testes
+- **Links:** [Case study](https://mikaelfrancisco.vercel.app/panoptico) · [Site no ar](https://panoptico.social.br) · [Código](https://github.com/Gipsy7/panoptico) · [API](https://api.panoptico.social.br/docs)
 
 ### 🤝 [FreelaLivre — freelance sem assinatura](https://mikaelfrancisco.vercel.app/freelalivre)
 Plataforma de freelance para desenvolvedores onde ninguém paga para propor nem para aparecer: a receita vem só de uma taxa de 5% de cada lado sobre trabalho pago.
